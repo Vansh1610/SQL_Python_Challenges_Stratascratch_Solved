@@ -1,0 +1,1 @@
+select ABS(MAX(case when department_id=1 then salary ELSE 0 end) - MAX(case when department_id=4 then salary ELSE 0 end)) from db_employee
