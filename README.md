@@ -4,4 +4,4 @@ This repository contains my solutions to various SQL and Python coding challenge
 
 ## Repository Structure
 
-Each folder in this repository corresponds to a different challenge, and inside each folder, you’ll find the solution in either SQL or Python (or both). Here’s a summary of the challenges solved:
+Each folder in this repository corresponds to a different challenge, and inside each folder, you’ll find the solution in both SQL and Python.
